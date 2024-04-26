@@ -3,14 +3,6 @@ import streamlit as st
 
 from Fire import initialize_firebase
 
-# Call initialize_firebase function when needed
-#firebase_bucket = initialize_firebase()
-
-# Now you can use the firebase_bucket reference to interact with Firebase Storage
-
-
-
-
 # Page Title and Header
 st.title("Password Manager")
 st.header("Welcome to our Password Manager App")
